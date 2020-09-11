@@ -1,2 +1,2 @@
-# KNN-for-signature-recognition
+# AI Automated Signature Recognition
 Individual University Project
